@@ -16,8 +16,9 @@ CSS
 Git and Github
 
 ### Website Screenshot
-[21 06 2025_21 53 38_REC](https://github.com/user-attachments/assets/a88c3055-87a5-4567-9afd-6f719d587e4a)
+(https://github.com/user-attachments/assets/524a61bc-87d4-4995-9ca4-d87e12d17f8d)
 
-### Challenges faced
+### Challenges faced!
+
 Faced network issue in my area due to weather conditions, switched to my own network
 Faced difficulty in installing node took help from youtube channel
